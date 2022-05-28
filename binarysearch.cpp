@@ -29,7 +29,7 @@ cin>>n;
 int array[n];
 for(int i=0;i<n;i++)
 {cin>>array[i];}
-cout<<"enter the number u want to search"<<endl;
+cout<<"enter the number you want to search"<<endl;
 int key;
 cin>>key;
 cout<<binarysearch(array,n,key);
